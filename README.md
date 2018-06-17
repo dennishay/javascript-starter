@@ -6,6 +6,8 @@ If something doesn’t work, please tweet [@labnol](https://twitter.com/labnol).
 
 ## Getting Started
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/labnol/javascript-starter.svg)](https://greenkeeper.io/)
+
 * Get a copy of the code
 ```bash
 git clone https://github.com/labnol/javscript-starter my-project
